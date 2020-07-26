@@ -1,4 +1,5 @@
 Script escrito em python através do Jupyter Notebook para localizar um tipo de arquivo, varrer seu conteúdo e apagar uma determinada linha específica.
+
 Autor: Rômulo Silva Pinheiro
 Me sigam nas redes sociais:
 
